@@ -54,4 +54,4 @@
 - [Максим Баяндин](https://github.com/msbndn)
 
 ## Лицензия
-- [MIT](https://github.com/msbndn/client-management-system/blob/main/LICENSE.md)
+- [MIT](https://github.com/msbndn/client-management-system/blob/master/LICENSE.md)
