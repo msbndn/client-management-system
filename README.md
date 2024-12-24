@@ -15,7 +15,7 @@
 1. Клонировать репозиторий с GitHub:
     ``` cmd
 	git clone https://github.com/msbndn/client-management-system.git
-	cd ClientManagementSystem
+	cd client-management-system
     ```
 2. Собрать репозиторий:
     ``` cmd
