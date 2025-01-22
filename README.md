@@ -23,7 +23,7 @@
     ```
 1. Запустить программу:
     ``` cmd
-	build\ClientManagementSystem
+	build\client-management-system
     ```
 
 ## Структура данных
