@@ -13,7 +13,7 @@ SRCS = $(wildcard $(SRC_DIR)/*.cpp)
 OBJS = $(patsubst $(SRC_DIR)/%.cpp, $(BUILD_DIR)/%.o, $(SRCS))
 
 # Исполняемый файл
-TARGET = $(BUILD_DIR)/ClientManagementSystem
+TARGET = $(BUILD_DIR)/client-management-system
 
 # Правило по умолчанию
 all: $(TARGET)
